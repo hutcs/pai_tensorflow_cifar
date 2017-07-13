@@ -1,0 +1,3 @@
+# pai_tensorflow_cifar
+阿里云PAI平台里tensorflow的demo就是cifar图像分类
+实验时，几次都没有成功，这里把自己的弯路共享出来，希望你能避免。
